@@ -1,6 +1,7 @@
 <!-- ![header](./img/header.png) -->
-<img src="./img/header.png"></img>
-
+<p align="center">
+   <img src="./img/header.png"></img>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src="/img/linkedin.gif"></a>&nbsp;&nbsp;
