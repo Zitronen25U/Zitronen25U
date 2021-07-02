@@ -8,11 +8,8 @@
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing.HexxKing" width="110px">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Zitronen25U.Zitronen25U" width="110px">
 </p>
-
----------------------
-<h3>🧑‍💻 How I Became a Developer</h3>
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
