@@ -1,8 +1,11 @@
 <img align=center src=/img/header.png></img>
 
-<!-- ![Header]( -->
+<p align="center">
+<a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:brian.m.lemons@outlook.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
+</p>
 
-<!--
+
 **Zitronen25U/Zitronen25U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
