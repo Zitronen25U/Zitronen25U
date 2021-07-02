@@ -1,4 +1,4 @@
-<img align=center src=/img/header.png)></img>
+<img align=center src=./img/header.png)></img>
 <
 <!-- ![Me](img/me.jpg) -->
 
