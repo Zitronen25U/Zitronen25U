@@ -2,12 +2,7 @@
 
 
 <p align="center">
-<!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
-<a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/hexx_king" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp;
-<a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src=""></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
@@ -19,24 +14,18 @@
 ---------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
-Like many others, COVID-19 gave me lots to think about. In March 2020, we were asked to leave our jobs and stay home for an undetermined amount of time because it was too dangerous to be around other humans. I decided that this was my chance to make a huge change. There was no room for excuses because I had all the time in the world and nowhere to be. 
-
-A developer friend convinced me to attend an accelerated software development program and 9 months later, I graduated from Code Fellows with countless new skills. A year later in March 2021, I started working my first job in the technology industry as a teaching assistant and tutor at Code Fellows. 
-
-Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the technology industry in an effort to find my forever role at my dream company.  
-
 ---------------------
 <h3>🐍 My Developer Identity</h3>
 
-### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development. 
+### FILL IN
 
   - ### 🛠️ **Technologies and Tools**
 
-    - **OS** : macOS Catalina, Microsoft Windows
+<!--     - **OS** : macOS Catalina, Microsoft Windows
     - **Editor** : Visual Studio Code, Jupyter Notebook
     - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
-    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
+    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
 
