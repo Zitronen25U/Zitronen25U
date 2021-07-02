@@ -1,4 +1,4 @@
-<img align=center src=/img/header.png width=max-content></img>
+<img align=center src=/img/header.png margin-left=15%></img>
 
 <!-- ![Header]( -->
 
