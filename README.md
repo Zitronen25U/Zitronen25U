@@ -1,4 +1,5 @@
-<img align=center margin-left="15%" src=/img/header.png></img>
+![header img here](./img/header.png)
+
 
 
 <p align="center">
