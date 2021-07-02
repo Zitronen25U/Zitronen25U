@@ -30,7 +30,7 @@
 ---------------------
 <h3>✍️ What I'm Working On:</h3>
 
-[Check Out My Django API CRUD Template](https://github.com/Zitronen25U/Django-Api-Crud-Template)
+[Check Out My Django API CRUD Template](https://github.com/Zitronen25U/Django-API-Crud-Temp)
 
 ---------------------
 
@@ -41,7 +41,7 @@
 ---------------------
 
 <footer>
-<h3>📚 Resources Used to Build This Repo:</h3>
+<h3> Resources Used to Build This Repo:</h3>
   
 - Inspiration for design <a href="https://github.com/HexxKing">Hexx king</a>
 - Header from <a href="https://www.canva.com/">Canva</a>
