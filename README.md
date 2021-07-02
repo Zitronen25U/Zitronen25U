@@ -1,6 +1,6 @@
-<img align=center src=./img/header.png)></img>
-<
-<!-- ![Me](img/me.jpg) -->
+<img align=center src=/img/header.png></img>
+
+<!-- ![Header]( -->
 
 <!--
 **Zitronen25U/Zitronen25U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
