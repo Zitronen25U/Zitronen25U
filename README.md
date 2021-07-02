@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src=""></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src="/img/linkedin.gif"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
