@@ -1,9 +1,7 @@
-
-
+<p align=center>
 ![Header](/img/header.png)
-
-### Welcome to my GitHub👋
-
+</p>
+<
 <!-- ![Me](img/me.jpg) -->
 
 <!--
