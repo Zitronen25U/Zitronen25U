@@ -26,7 +26,7 @@
 
 ---------------------
 
---> -->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats) --> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
 
 ---------------------
 <h3>✍️ What I'm Working On:</h3>
