@@ -26,77 +26,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
 
-  - ### 💎 **Non-Traditional Background**
-    #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
-
-    - **Competitive Trained Dancer & Professional Ballerina at Houston Ballet - 18 Years**
-      - stamina, perseverance, motivation, discipline, creativity, resilience, self-confidence, adaptability, teamwork/collaboration, cultural, self-control, commitment, attention to detail, respect for deadlines, listening and following directions
-
-    - **The Walt Disney Company Cast Member & Disney College Program - 2.5 Years : Attractions, Lifeguard, Entertainment, Animal Programs**
-      - customer service, communication, creating a safe environment, working in high volume capacity, product knowledge, linguistics, foretelling negative experiences, creating magic and happiness, friendliness, patience, composure, multitasking, self-care
-
-    - **Craft Cocktail Bartender & Award-Winning Barista - 10 Years**
-	    - kinesics, networking/relationship building, improvisation, quick memorization, money-related math, integrity, persuasion, chemistry, stress management, spatial awareness, critical thinking, event planning, time management, attentiveness, enthusiasm
-
-    - **Manager in Professional Body Modification Studio and Luxury Gold Jewelry Brand Ambassador - 4 Years**
-	    - Approachability, personal appearance, workplace happiness, mentorship, professionalism, brand image, digital marketing, sales, motivation, employee development, polietness, payroll, auditing, inventory management, accountability, consistency, leadership, self-learning, problem-solving, data analysis, analytical thinking, graphic design, merchandising, public health education, documentation, technology trouble-shooting, interviewing/hiring, public speaking, grace
-
-  - ### 🌟 **Professional Competencies**
-    - A Growth Mindset:
-      - Ability to deal with ambiguous situations and solve problems with agility
-      - Envision beyond the responsibility of my role
-      - Build a career across multiple disciplines
-      - Attend every opportunity to learn and grow as a professional and a better human 
-
-    - Diverse and Inclusive:
-      - Empower every person to achieve more
-      - Influencing others by encouraging communication
-      - Lifting up "Non-Traditional Backgrounds"
-      - Create a safe working environment for everyone
-      - Community outreach through volunteering
-
-    - Leadership & Collaboration:
-      - Effectively communicating within a team and across teams
-      - Positively influencing others by setting a good example 
-      - Working tenaciously to deliver on commitments
-      - Constantly seeking bigger challenges
-      - Holding yourself and others accountable
-
-  <!-- Start a twitter hashtag that I can later link to here #ThisIsWhyIWantToWorkInTech -->
-  - ### 🌈 **Why I Want to Work in Tech**
-    - Working from home is safest during a pandemic.
-    - I am ready for a liveable wage, excellent healthcare and rewarding benefits.
-    - My ability to adapt allows me to change my professional career.
-    - I am a lifelong learner looking to keep life interesting.
-    - I recognize that software and technology is the future.
-    - The women and queer developer community is welcoming and supportive.
-    - I want to empower other queer people and women to join the tech community.
-    - I want to help make the world a more accessible place for everyone.
-    - The relentless spread of misinformation on the internet affects everyone's quality of life and I want to stop it.
-    - Cyber crime is on the rise and I want to help make the world safer.
-
-  - ### 👭 **My Favorite Organizations**
-    - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
-    - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
-    - [Out in Tech](https://outintech.com/)
-    - [PyLadies](https://pyladies.com/)
-    - [Code Newbie](https://www.codenewbie.org/)
-    - [PuPPy](https://www.pspython.com/app/)
-    - [Tech Ladies](https://www.hiretechladies.com/)
-
 ---------------------
 <h3>✍️ What I'm Working On</h3>
 
-  - [Kaggle : Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-  - [LeetCode : Arrays 101](https://leetcode.com/hexxking13/)
-  - [HackerRank : 10 Days of JavaScript](https://www.hackerrank.com/hexxking13)
+
 
 ---------------------
 <h3>💡 What I'm Learning</h3>
 
-  - [Solo Learn : DS with Python Course](https://www.sololearn.com/profile/18994378)
-  - [Udemy : Python Crash Course for Data Science and Machine Learning Course](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/)
-  - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 ---------------------
 
 <a href="https://github.com/HexxKing/github-readme-stats">
