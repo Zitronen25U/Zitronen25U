@@ -13,7 +13,7 @@
 </p>
 
 ---------------------
-<h3>How I develop</h3>
+<h3>How I develop:</h3>
 
 #### **Technologies and Tools**🛠️ 
 
@@ -26,9 +26,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
 
 ---------------------
-<h3>✍️ What I'm Working On</h3>
+<h3>✍️ What I'm Working On:</h3>
 
-
+[Check Out My Django API CRUD Template](https://github.com/Zitronen25U/Django-Api-Crud-Template)
 
 ---------------------
 
@@ -41,7 +41,7 @@
 <footer>
 <h3>📚 Resources Used to Build This Repo:</h3>
   
-  - Inspiration for design <a href="https://github.com/HexxKing">Hexx king</a>
+- Inspiration for design <a href="https://github.com/HexxKing">Hexx king</a>
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
