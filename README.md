@@ -13,19 +13,17 @@
 </p>
 
 ---------------------
-<h3>🐍 My Developer Identity</h3>
+<h3>How I develop</h3>
 
-### FILL IN
+### **Technologies and Tools**🛠️ 
 
-  - ### 🛠️ **Technologies and Tools**
+   - **OS** : macOS, Microsoft Windows, Linux
+   - **Editor** : Visual Studio Code, Jupyter Notebook
+   - **Languages** : Python, JavaScript(ES6), SQL, CSS, HTML, Markdown
+   - **Frameworks/Layouts/Templates** : Django (REST), PyTest, Tailwinds CSS,
+   - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, DevTools, Regex, npm, Node.js, Chart.js
 
-<!--     - **OS** : macOS Catalina, Microsoft Windows
-    - **Editor** : Visual Studio Code, Jupyter Notebook
-    - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
-    - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
-    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
 
 ---------------------
 <h3>✍️ What I'm Working On</h3>
