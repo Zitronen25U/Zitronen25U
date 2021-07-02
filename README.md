@@ -25,9 +25,9 @@
    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, DevTools, Regex, npm, Node.js, Chart.js
 
 ---------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
-
+<p align="center">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
+</p>
 ---------------------
 <h3>✍️ What I'm Working On:</h3>
 
