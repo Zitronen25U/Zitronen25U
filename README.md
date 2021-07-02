@@ -1,4 +1,8 @@
-![Header](/img/header.png)
+```html
+<img src=/img/header.png></img>
+```
+<!-- 
+![Header](/img/header.png) -->
 
 ### Welcome to my GitHub👋
 
