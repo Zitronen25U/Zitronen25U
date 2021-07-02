@@ -1,4 +1,3 @@
-<!-- ![header](./img/header.png) -->
 <p align="center">
    <img src="./img/header.png"></img>
 </p>
