@@ -1,7 +1,7 @@
 <img align=center src=/img/header.png></img>
 
 
-<div align="center">
+<div align="center" margin-left:"15%">
 <a href="https://www.linkedin.com/in/brian-lemons25/" target="_blank" rel="noopener noreferrer"><img height="38" src="/img/linkedin.gif"></a>&nbsp;&nbsp;
 </div>
 
