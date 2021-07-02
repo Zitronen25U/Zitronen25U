@@ -15,7 +15,7 @@
 ---------------------
 <h3>How I develop:</h3>
 
-#### **Technologies and Tools**🛠️ 
+#### **Technologies and Tools**
 
    - **OS** : macOS, Microsoft Windows, Linux
    - **Editor** : Visual Studio Code, Jupyter Notebook
