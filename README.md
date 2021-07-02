@@ -1,6 +1,6 @@
-<p align=center>
+<img align=center>
 ![Header](/img/header.png)
-</p>
+</img>
 <
 <!-- ![Me](img/me.jpg) -->
 
