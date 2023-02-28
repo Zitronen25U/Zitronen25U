@@ -30,7 +30,7 @@
 ---------------------
 <h3>What I'm Working On:</h3>
 
-[Check Out My Django API CRUD Template](https://github.com/Zitronen25U/Django-API-Crud-Temp)
+[Learning Dotnet Apps](https://github.com/Zitronen25U/Blazor-Test)
 
 ---------------------
 
