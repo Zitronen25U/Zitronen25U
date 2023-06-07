@@ -23,20 +23,12 @@
    - **Frameworks/Layouts/Templates** : Django (REST), PyTest, Tailwinds CSS,
    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, DevTools, Regex, npm, Node.js, Chart.js
 
----------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronen25U&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/Zitronen25U/github-readme-stats)
 
 ---------------------
 <h3>What I'm Working On:</h3>
 
 [Learning Dotnet Apps](https://github.com/Zitronen25U/Blazor-Test)
 
----------------------
-
-<a href="https://github.com/Zitronen25U/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zitronen25U&show_icons=true&theme=midnight-purple" />
-</a>
 
 ---------------------
 
