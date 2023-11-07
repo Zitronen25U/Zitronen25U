@@ -13,11 +13,9 @@
 
 #### **Technologies and Tools**
 
-   - **OS** : macOS, Microsoft Windows, Linux
-   - **Editor** : Visual Studio Code, Jupyter Notebook
-   - **Languages** : Python, JavaScript(ES6), SQL, CSS, HTML, Markdown
-   - **Frameworks/Layouts/Templates** : Django (REST), PyTest, Tailwinds CSS,
-   - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, DevTools, Regex, npm, Node.js, Chart.js
+   - **OS** : Windows, Linux, MacOS
+   - **Editor** : Visual Studio Code
+   - **Languages** : PowerShell, Bash, Python
 
 
 ---------------------
@@ -31,7 +29,6 @@
 <footer>
 <h3> Resources Used to Build This Repo:</h3>
   
-- Inspiration for design: <a href="https://github.com/HexxKing">Hexx king</a>
 - Header from: <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from: <a href="https://icons8.com">Icons8</a>
 - <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
