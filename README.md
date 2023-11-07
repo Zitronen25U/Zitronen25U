@@ -21,9 +21,9 @@
 ---------------------
 <h3>What I'm Working On:</h3>
 
-[Learning Dotnet Apps](https://github.com/Zitronen25U/Blazor-Test)
-<br>
-[PowerShell](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617291080)
+- [Learning Dotnet Apps](https://github.com/Zitronen25U/Blazor-Test)
+
+- [PowerShell](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617291080)
 
 
 ---------------------
