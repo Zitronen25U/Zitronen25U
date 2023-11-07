@@ -22,12 +22,13 @@
 <h3>What I'm Working On:</h3>
 
 [Learning Dotnet Apps](https://github.com/Zitronen25U/Blazor-Test)
+[PowerShell](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617291080)
 
 
 ---------------------
 
 <footer>
-<h3> Resources Used to Build This Repo:</h3>
+<h3> Resources Used to Build This Repo:</h3>https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617291080
   
 - Header from: <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from: <a href="https://icons8.com">Icons8</a>
